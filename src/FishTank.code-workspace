@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP32-Practice"
+		},
+		{
+			"name": "FishTank Monitor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
